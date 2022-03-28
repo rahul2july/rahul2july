@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rahul2july
 - 👀 I’m interested in Cloud Technology , Go, Solution Architecture
-- 🌱 I’m currently learning Terraform
+- 🌱 I’m currently learning machine learning.
 - 💞️ I’m looking to collaborate on Solution Architecture
 - 📫 How to reach me rahul2july@gmail.com
 

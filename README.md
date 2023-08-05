@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rahul2july.
 - 👀 I’m interested in Cloud Technology , Go, Solution Architecture.
 - I am working as a QA Technical Leader.
-- 🌱 I’m currently interested in machine learning and related technologies.
+- 🌱 I’m currently interested in security, machine learning and related technologies.
 - 💞️ I’m looking to collaborate on Solution Architecture.
 - 📫 How to reach me rahul2july@gmail.com
 
